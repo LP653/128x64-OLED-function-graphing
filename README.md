@@ -5,12 +5,12 @@
 This is my project for a 1306 128x64 OLED screen with an ESP32 over I2C. 
 
 **Demo**
-[![ESP32 Controlled Screen Demo](images/sin.PNG)](./images/demo.mov)
+[![ESP32 Controlled Screen Demo](./images/sin.PNG)](./images/demo.mov)
 
 ***
-The program `oled_display.ino` is a fork or KrisKasprzak's OLED_Graphing.ino file, found through his youtube video:
+The program `oled_display.ino` is a fork of KrisKasprzak's OLED_Graphing.ino file, found through his youtube video:
 
-[![Source Video](images\YouTube_thumbnail.png)](https://www.youtube.com/watch?v=13PFOwcK3-I&ab_channel=KrisKasprzak)
+[![Source Video](./images/YouTube_thumbnail.png)](https://www.youtube.com/watch?v=13PFOwcK3-I&ab_channel=KrisKasprzak)
 
 ***
 
@@ -20,11 +20,11 @@ It displays an animation drawing of a function. It has 4 functions to choose fro
 
 | **Sin**                      | **Cos**                   |
 | ---------------------------- | ------------------------- |
-| ![Sin](images/sin.png)       | ![Cos](images/cos.png)    |
+| ![Sin](./images/sin.png)       | ![Cos](./images/cos.png)    |
 
 | **Square**                   | **Noise**                 |
 | ---------------------------- | ------------------------- |
-| ![Square](images/square.png) | ![Noise](images/noise.png)|
+| ![Square](./images/square.png) | ![Noise](./images/noise.png)|
 
 By changing the mode parameter and adjusting the `checkMode()` function, one can add more functions to animate.
 
