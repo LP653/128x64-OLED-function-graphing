@@ -20,11 +20,11 @@ It displays an animation drawing of a function. It has 4 functions to choose fro
 
 | **Sin**                      | **Cos**                   |
 | ---------------------------- | ------------------------- |
-| ![Sin](./images/sin.png)       | ![Cos](./images/cos.png)    |
+| ![Sin](./images/sin.PNG)       | ![Cos](./images/cos.PNG)    |
 
 | **Square**                   | **Noise**                 |
 | ---------------------------- | ------------------------- |
-| ![Square](./images/square.png) | ![Noise](./images/noise.png)|
+| ![Square](./images/square.PNG) | ![Noise](./images/noise.PNG)|
 
 By changing the mode parameter and adjusting the `checkMode()` function, one can add more functions to animate.
 
