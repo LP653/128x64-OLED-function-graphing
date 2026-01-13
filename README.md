@@ -23,15 +23,15 @@ It displays an animation drawing of a function. It has 4 functions to choose fro
 
 | **Sin**                      | **Cos**                   |
 | ---------------------------- | ------------------------- |
-| ![Sin](./images/Sin_demo.PNG)       | ![Cos](./images/Cos_signal.png)    |
+| ![Sin](./images/Sin_demo.png)       | ![Cos](./images/Cos_Signal.png)    |
 
 | **Square**                   | **Triangle**                 |
 | ---------------------------- | ------------------------- |
-| ![Square](./images/Square_Signal.PNG) | ![Triangle](./images/Triangle_Signal.PNG)|
+| ![Square](./images/Square_Signal.png) | ![Triangle](./images/Triangle_Signal.png)|
 
 | **Sawtooth**                   | **Noise**                 |
 | ---------------------------- | ------------------------- |
-| ![Sawtooth](./images/Sawtooth_Signal.PNG) | ![Noise](./images/Random_Signal.PNG)|
+| ![Sawtooth](./images/Sawtooth_Signal.png) | ![Noise](./images/Random_Signal.png)|
 
 By changing the mode parameter and adjusting the `checkMode()` function, one can add more functions to animate.
 
